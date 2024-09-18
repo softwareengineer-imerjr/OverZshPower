@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# 4. Instalação do Powerlevel10k (Parte 4 - Esta parte ainda não foi realizada mas deve ser considerada antes de você fazer as modificações que sugeriu de forma a ver se estão todas no lugar onde deviam ou se algo precisa ser enviado para esta parte que cabe especificamente à instalação dos pacotes e configuração de arquivos necessárias para se isntalar o Powerlevel10k e deixar no ponto em que o usuário irá fazer a configuração manualmente em seguida):
+# Somente após instalar e configurar o Zsh e o Oh-My-Zsh com todos os plugins, realizaremos a instalação do Powerlevel10k para que você possa configurá-lo manualmente de acordo com suas preferências.
